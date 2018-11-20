@@ -10,3 +10,9 @@
 [submodule "techpack/audio"]
 	path = techpack/audio
 	url = https://github.com/GrapheneOS/kernel_google_bonito_techpack_audio.git
+[submodule "scripts/dtc-aosp/dtc"]
+	path = scripts/dtc-aosp/dtc
+	url = https://android.googlesource.com/platform/external/dtc
+[submodule "scripts/ufdt/libufdt"]
+	path = scripts/ufdt/libufdt
+	url = https://android.googlesource.com/platform/system/libufdt
