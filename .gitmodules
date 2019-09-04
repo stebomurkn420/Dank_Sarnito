@@ -1,0 +1,12 @@
+[submodule "techpack/audio"]
+	path = techpack/audio
+	url = https://github.com/stebomurkn420/techpack.git
+[submodule "drivers/staging/qcacld-3.0"]
+	path = drivers/staging/qcacld-3.0
+	url = https://github.com/stebomurkn420/qcacld.git
+[submodule "drivers/staging/qca-wifi-host-cmn"]
+	path = drivers/staging/qca-wifi-host-cmn
+	url = https://android.googlesource.com/kernel/msm-modules/qca-wfi-host-cmn
+[submodule "drivers/staging/fw-api"]
+	path = drivers/staging/fw-api
+	url = https://android.googlesource.com/kernel/msm-modules/wlan-fw-api
